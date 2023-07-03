@@ -2,8 +2,6 @@
 //  LoginVC.swift
 //  VinmoApp
 //
-//  Created by asif hussain on 3/16/23.
-//
 
 import UIKit
 

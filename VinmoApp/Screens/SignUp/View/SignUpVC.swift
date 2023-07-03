@@ -2,8 +2,6 @@
 //  SignUpVC.swift
 //  VinmoApp
 //
-//  Created by asif hussain on 3/17/23.
-//
 
 import UIKit
 
