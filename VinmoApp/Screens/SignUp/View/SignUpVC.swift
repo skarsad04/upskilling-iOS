@@ -41,14 +41,16 @@ class SignUpVC: UIViewController {
         passwordVw.cornerRadius()
         firstNameVw.cornerRadius()
         // Inserting this message to create a conflict
+        // here we have added new chnages
         lastNameVw.cornerRadius()
         emailVw.cornerRadius()
+        // Also here
         imgProfile.cornerRadius(radius: imgProfile.bounds.height/2)
         btnSignUp.dropShadow()
         btnSignUp.cornerRadius()
         imgProfile.addBorder(2)
         observeEvent()
-        
+        // push this change without commit message
     }
     
     //MARK: - @IBACTION
