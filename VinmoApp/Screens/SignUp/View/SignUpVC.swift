@@ -48,6 +48,7 @@ class SignUpVC: UIViewController {
         btnSignUp.cornerRadius()
         imgProfile.addBorder(2)
         observeEvent()
+        // This is my first change
         
     }
     
