@@ -38,15 +38,15 @@ class SignUpVC: UIViewController {
         lastNameVw.dropShadow()
         imgProfile.dropShadow()
         userNameVw.cornerRadius()
-        // Writing somethiong to create a merge conflict
         passwordVw.cornerRadius()
         firstNameVw.cornerRadius()
-        // Inserting this message to create a conflict
         lastNameVw.cornerRadius()
         emailVw.cornerRadius()
         imgProfile.cornerRadius(radius: imgProfile.bounds.height/2)
         btnSignUp.dropShadow()
+        // Do something to create a merge conflict
         btnSignUp.cornerRadius()
+        // More changes are here
         imgProfile.addBorder(2)
         observeEvent()
         // This is my first change
