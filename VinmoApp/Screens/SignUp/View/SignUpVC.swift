@@ -40,6 +40,7 @@ class SignUpVC: UIViewController {
         userNameVw.cornerRadius()
         passwordVw.cornerRadius()
         firstNameVw.cornerRadius()
+        // Inserting this message to create a conflict
         lastNameVw.cornerRadius()
         emailVw.cornerRadius()
         imgProfile.cornerRadius(radius: imgProfile.bounds.height/2)
