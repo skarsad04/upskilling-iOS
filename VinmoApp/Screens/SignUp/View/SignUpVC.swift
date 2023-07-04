@@ -38,6 +38,7 @@ class SignUpVC: UIViewController {
         lastNameVw.dropShadow()
         imgProfile.dropShadow()
         userNameVw.cornerRadius()
+        // Writing somethiong to create a merge conflict
         passwordVw.cornerRadius()
         firstNameVw.cornerRadius()
         // Inserting this message to create a conflict
